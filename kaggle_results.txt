@@ -1,0 +1,9 @@
+word2vec avg on added data    --    1.00000   --    Bag_of_Words_model_added_data.csv
+
+added data count vectorizer vectorizer fixed    --    1.00000   --    Bag_of_Words_model_added_data.csv
+
+bag of centroids    --    0.84816   --    Word2Vec_bag_of_centoruds.csv
+
+word2vec average word features    --    0.83396   --    Word2Vec_AverageVectors.csv
+
+Bag of words approach with count vectorizer   --    0.84272   --    Bag_of_Words_model.csv
